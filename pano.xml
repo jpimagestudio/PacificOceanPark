@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20954" start="node49" appversion="7.1.5" hassounds="0">
+  <panorama id="node49">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-54.5226" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node49" comment="" info="" customnodeid="" author="" title="太平洋公園入口" datetime="" latitude="23.96670405" longitude="121.60919353" tags="" copyright="" heading="-54.5226" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node14}" tilt="0" title="展演場" distance="93.729" target="$fwd" pan="-101.761" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node1}" tilt="0" title="噴水池" distance="102.826" target="$fwd" pan="-173.363" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="101.914" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node14" comment="" info="" customnodeid="" author="" title="展演場" datetime="" latitude="23.96727635" longitude="121.60987079" tags="" copyright="" heading="101.914" description="有朋頂遮陽，提供表演場地" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node49}" tilt="0" title="太平洋公園入口" distance="93.729" target="$fwd" pan="234.675" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-57.037" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node1" comment="" info="" customnodeid="" author="" title="噴水池" datetime="" latitude="23.96625798" longitude="121.61008000" tags="" copyright="" heading="-57.037" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node36}" tilt="0" title="兒童遊戲場I" distance="21.3001" target="$fwd" pan="-100.741" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node2}" tilt="0" title="彩繪階梯" distance="30.4493" target="$fwd" pan="-192.398" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node49}" tilt="0" title="太平洋公園入口" distance="102.826" target="$fwd" pan="4.12232" skinid="ht_node" id="Point04" description=""/>
+      <hotspot target="" pan="-190.92" url="{node22}" skinid="ht_node" id="Point05" tilt="-88.88" title="2022年前的樣貌" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="121.591" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node22" comment="" info="" customnodeid="" author="" title="2022年前的樣貌" datetime="" latitude="23.96625798" longitude="121.61008000" tags="" copyright="" heading="121.591" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-124.61" url="{node1}" skinid="ht_node" id="Point02" tilt="-80.55" title="噴水池" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="122.056" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node2" comment="" info="" customnodeid="" author="" title="彩繪階梯" datetime="" latitude="23.96606313" longitude="121.61029056" tags="" copyright="" heading="122.056" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node1}" tilt="0" title="噴水池" distance="30.4493" target="$fwd" pan="166.694" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node35}" tilt="0" title="一顆超好躺的俗頭の鄰" distance="42.7335" target="$fwd" pan="-6.86046" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node5}" tilt="0" title="海龜" distance="253.484" target="$fwd" pan="267.392" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node30}" tilt="0" title="兒童遊戲場D" distance="33.6797" target="$fwd" pan="99.9533" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" overlap="1" width="1024" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" levelingroll="0">
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="106.14" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node3" comment="" info="" customnodeid="" author="" title="步道北端" datetime="" latitude="23.96809619" longitude="121.61175773" tags="" copyright="" heading="106.14" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node34}" tilt="0" title="兒童遊戲場H" distance="117.95" target="$fwd" pan="250.448" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node4}" tilt="0" title="北濱海提南端" distance="302.782" target="$fwd" pan="82.5286" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-202.871" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node4" comment="" info="" customnodeid="" author="" title="北濱海提南端" datetime="" latitude="23.97059121" longitude="121.61295131" tags="" copyright="" heading="-202.871" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node3}" tilt="0" title="步道北端" distance="302.782" target="$fwd" pan="-46.4828" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="128.88" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node5" comment="" info="" customnodeid="" author="" title="海龜" datetime="" latitude="23.96418812" longitude="121.60887167" tags="" copyright="" heading="128.88" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node12}" tilt="0" title="木棧活動區" distance="53.6505" target="$fwd" pan="157.073" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node13}" tilt="7.2" title="南濱之巔樓梯" distance="66.7471" target="$fwd" pan="249.131" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node2}" tilt="0" title="彩繪階梯" distance="253.484" target="$fwd" pan="94.2164" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node6}" tilt="0" title="化仁海提" distance="645.586" target="$fwd" pan="286.353" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="104.588" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node6" comment="" info="" customnodeid="" author="" title="化仁海提" datetime="" latitude="23.95882522" longitude="121.60643756" tags="" copyright="" heading="104.588" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node7}" tilt="0" title="化仁海提觀海台" distance="149.482" target="$fwd" pan="259.448" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node5}" tilt="0" title="海龜" distance="645.586" target="$fwd" pan="82.0616" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="104.19" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node7" comment="" info="" customnodeid="" author="" title="化仁海提觀海台" datetime="" latitude="23.95760824" longitude="121.60581261" tags="" copyright="" heading="104.19" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node6}" tilt="0" title="化仁海提" distance="149.482" target="$fwd" pan="79.0504" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node8}" tilt="0" title="化仁海提單車道" distance="422.102" target="$fwd" pan="278.483" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.9508" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node8" comment="" info="" customnodeid="" author="" title="化仁海提單車道" datetime="" latitude="23.95383100" longitude="121.60539955" tags="" copyright="" heading="88.9508" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node7}" tilt="0" title="化仁海提觀海台" distance="422.102" target="$fwd" pan="83.244" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node9}" tilt="0" title="化仁海提南端起點" distance="628.896" target="$fwd" pan="-80.6619" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="69.8627" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node9" comment="" info="" customnodeid="" author="" title="化仁海提南端起點" datetime="" latitude="23.94826789" longitude="121.60651535" tags="" copyright="" heading="69.8627" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node8}" tilt="0" title="化仁海提單車道" distance="628.896" target="$fwd" pan="80.2495" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node16}" tilt="0" title="AMIS海祭廣場" distance="301.974" target="$fwd" pan="-90.9009" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="40.7335" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node10" comment="" info="" customnodeid="" author="" title="南濱之巔" datetime="" latitude="23.96399695" longitude="121.60802811" tags="" copyright="" heading="40.7335" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node11}" tilt="-15.09" title="南濱之巔溜滑梯道" distance="19.0003" target="$fwd" pan="14.7234" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="33.6069" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node11" comment="" info="" customnodeid="" author="" title="南濱之巔溜滑梯道" datetime="" latitude="23.96414401" longitude="121.60812333" tags="" copyright="" heading="33.6069" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node10}" tilt="15.97" title="南濱之巔" distance="19.0003" target="$fwd" pan="183.735" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node12}" tilt="-10.22" title="木棧活動區" distance="72.7566" target="$fwd" pan="-11.5586" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node13}" tilt="0" title="南濱之巔樓梯" distance="37.5003" target="$fwd" pan="-113.857" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="108.453" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node13" comment="" info="" customnodeid="" author="" title="南濱之巔樓梯" datetime="" latitude="23.96385969" longitude="121.60832182" tags="" copyright="" heading="108.453" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" tilt="0" title="海龜" distance="66.7471" target="$fwd" pan="51.6239" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node11}" tilt="15.98" title="南濱之巔溜滑梯道" distance="37.5003" target="$fwd" pan="140.989" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="137.464" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node12" comment="" info="" customnodeid="" author="" title="木棧活動區" datetime="" latitude="23.96461337" longitude="121.60862222" tags="" copyright="" heading="137.464" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" tilt="0" title="海龜" distance="53.6505" target="$fwd" pan="-14.3433" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node11}" tilt="0" title="南濱之巔溜滑梯道" distance="72.7566" target="$fwd" pan="273.298" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-4.24105" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node16" comment="" info="" customnodeid="" author="" title="AMIS海祭廣場" datetime="" latitude="23.94570380" longitude="121.60749435" tags="" copyright="" heading="-4.24105" description="空拍" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node9}" tilt="0" title="化仁海提南端起點" distance="301.974" target="$fwd" pan="14.995" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="119.393" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node23" comment="" info="" customnodeid="" author="" title="兒童遊戲場A" datetime="" latitude="23.96676410" longitude="121.61034957" tags="" copyright="" heading="119.393" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node28}" tilt="0" title="兒童遊戲場B" distance="10.1419" target="$fwd" pan="113.222" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node39}" tilt="0" title="兒童遊戲場L" distance="13.6578" target="$fwd" pan="287.296" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="129.821" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node28" comment="" info="" customnodeid="" author="" title="兒童遊戲場B" datetime="" latitude="23.96685478" longitude="121.61036030" tags="太平洋公園" copyright="" heading="129.821" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node23}" tilt="0" title="兒童遊戲場A" distance="10.1419" target="$fwd" pan="303.65" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node29}" tilt="0" title="兒童遊戲場C" distance="35.0767" target="$fwd" pan="74.3774" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node43}" tilt="0" title="兒童遊戲場P" distance="28.8806" target="$fwd" pan="260.801" skinid="ht_node" id="Point04" description=""/>
+      <hotspot url="{node46}" tilt="22.2" title="公園空景B" distance="20.721" target="$fwd" pan="7.57557" skinid="ht_node" id="Point05" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="120.937" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node29" comment="" info="" customnodeid="" author="" title="兒童遊戲場C" datetime="" latitude="23.96703371" longitude="121.61064461" tags="" copyright="" heading="120.937" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node33}" tilt="0" title="兒童遊戲場G" distance="34.1542" target="$fwd" pan="26.8185" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node42}" tilt="0" title="兒童遊戲場O" distance="34.346" target="$fwd" pan="73.0415" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node28}" tilt="0" title="兒童遊戲場B" distance="35.0767" target="$fwd" pan="245.493" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-286.281" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node30" comment="" info="" customnodeid="" author="" title="兒童遊戲場D" datetime="" latitude="23.96634376" longitude="121.61041528" tags="" copyright="" heading="-286.281" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node2}" tilt="0" title="彩繪階梯" distance="33.6797" target="$fwd" pan="-128.384" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node31}" tilt="0" title="兒童遊戲場E" distance="26.6007" target="$fwd" pan="-332.527" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node36}" tilt="0" title="兒童遊戲場I" distance="20.2181" target="$fwd" pan="-213.129" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-57.6314" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node31" comment="" info="" customnodeid="" author="" title="兒童遊戲場E" datetime="" latitude="23.96650920" longitude="121.61060438" tags="" copyright="" heading="-57.6314" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node32}" tilt="0" title="兒童遊戲場F" distance="23.3051" target="$fwd" pan="-79.2464" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node30}" tilt="0" title="兒童遊戲場D" distance="26.6007" target="$fwd" pan="76.1226" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node39}" tilt="0" title="兒童遊戲場L" distance="32.4254" target="$fwd" pan="4.83532" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-57.7153" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node32" comment="" info="" customnodeid="" author="" title="兒童遊戲場F" datetime="" latitude="23.96670405" longitude="121.61068887" tags="" copyright="" heading="-57.7153" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node46}" tilt="0" title="公園空景B" distance="16.6393" target="$fwd" pan="6.56043" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node31}" tilt="0" title="兒童遊戲場E" distance="23.3051" target="$fwd" pan="100.67" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node33}" tilt="0" title="兒童遊戲場G" distance="45.2129" target="$fwd" pan="-98.5586" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-77.2296" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node33" comment="" info="" customnodeid="" author="" title="兒童遊戲場G" datetime="" latitude="23.96701165" longitude="121.61097988" tags="" copyright="" heading="-77.2296" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node29}" tilt="0" title="兒童遊戲場C" distance="34.1542" target="$fwd" pan="8.65179" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node34}" tilt="0" title="兒童遊戲場H" distance="26.8234" target="$fwd" pan="-99.6275" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node32}" tilt="0" title="兒童遊戲場F" distance="45.2129" target="$fwd" pan="61.927" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node42}" tilt="0" title="兒童遊戲場O" distance="26.8884" target="$fwd" pan="-58.6127" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-53.1937" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node34" comment="" info="" customnodeid="" author="" title="兒童遊戲場H" datetime="" latitude="23.96723468" longitude="121.61108047" tags="" copyright="" heading="-53.1937" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node33}" tilt="0" title="兒童遊戲場G" distance="26.8234" target="$fwd" pan="104.408" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node42}" tilt="0" title="兒童遊戲場O" distance="18.8168" target="$fwd" pan="34.7303" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node3}" tilt="0" title="步道北端" distance="117.95" target="$fwd" pan="-88.885" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node41}" tilt="0" title="兒童遊戲場N" distance="22.2225" target="$fwd" pan="3.31162" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.0826" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node35" comment="" info="" customnodeid="" author="" title="一顆超好躺的俗頭の鄰" datetime="" latitude="23.96582171" longitude="121.61061779" tags="" copyright="" heading="88.0826" description="想找那顆俗頭嗎？再往前走，快要走到海水邊的時候就會看到了。&#xa;" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node2}" tilt="7.85" title="彩繪階梯" distance="42.7335" target="$fwd" pan="139.196" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="112.164" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node36" comment="" info="" customnodeid="" author="" title="兒童遊戲場I" datetime="" latitude="23.96639646" longitude="121.61022484" tags="" copyright="" heading="112.164" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node1}" tilt="0" title="噴水池" distance="21.3001" target="$fwd" pan="248.46" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node37}" tilt="0" title="兒童遊戲場J" distance="13.4109" target="$fwd" pan="70.0447" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node30}" tilt="0" title="兒童遊戲場D" distance="20.2181" target="$fwd" pan="5.31579" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="125.446" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node37" comment="" info="" customnodeid="" author="" title="兒童遊戲場J" datetime="" latitude="23.96648592" longitude="121.61031336" tags="" copyright="" heading="125.446" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node45}" tilt="29.81" title="公園空景Ａ" distance="7.30357" target="$fwd" pan="129.228" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node36}" tilt="0" title="兒童遊戲場I" distance="13.4109" target="$fwd" pan="263.327" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node38}" tilt="0" title="兒童遊戲場K" distance="9.08143" target="$fwd" pan="151.246" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="112.846" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node38" comment="" info="" customnodeid="" author="" title="兒童遊戲場K" datetime="" latitude="23.96655945" longitude="121.61027446" tags="" copyright="" heading="112.846" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node39}" tilt="0" title="兒童遊戲場L" distance="10.5421" target="$fwd" pan="85.9469" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node45}" tilt="55.15" title="公園空景Ａ" distance="2.43814" target="$fwd" pan="-1.98099" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node37}" tilt="0" title="兒童遊戲場J" distance="9.08143" target="$fwd" pan="-41.3538" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node43}" tilt="0" title="兒童遊戲場P" distance="19.0868" target="$fwd" pan="156.109" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="105.464" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node39" comment="" info="" customnodeid="" author="" title="兒童遊戲場L" datetime="" latitude="23.96664400" longitude="121.61032140" tags="" copyright="" heading="105.464" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node23}" tilt="0" title="兒童遊戲場A" distance="13.6578" target="$fwd" pan="93.3667" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node48}" tilt="-89.82" title="公園夜景Ａ" distance="0.304229" target="$fwd" pan="-188.777" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node38}" tilt="0" title="兒童遊戲場K" distance="10.5421" target="$fwd" pan="258.565" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node43}" tilt="0" title="兒童遊戲場P" distance="18.4084" target="$fwd" pan="181.321" skinid="ht_node" id="Point04" description=""/>
+      <hotspot url="{node31}" tilt="0" title="兒童遊戲場E" distance="32.4254" target="$fwd" pan="-12.0692" skinid="ht_node" id="Point05" description=""/>
+      <hotspot url="{node45}" tilt="34.97" title="公園空景Ａ" distance="10.807" target="$fwd" pan="273.563" skinid="ht_node" id="Point06" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="124.89" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node41" comment="" info="" customnodeid="" author="" title="兒童遊戲場N" datetime="" latitude="23.96734497" longitude="121.61089808" tags="" copyright="" heading="124.89" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node42}" tilt="0" title="兒童遊戲場O" distance="11.5853" target="$fwd" pan="303.543" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node34}" tilt="0" title="兒童遊戲場H" distance="22.2225" target="$fwd" pan="1.3954" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="125.201" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node42" comment="" info="" customnodeid="" author="" title="兒童遊戲場O" datetime="" latitude="23.96724081" longitude="121.61089540" tags="" copyright="" heading="125.201" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node34}" tilt="0" title="兒童遊戲場H" distance="18.8168" target="$fwd" pan="33.1251" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node41}" tilt="0" title="兒童遊戲場N" distance="11.5853" target="$fwd" pan="123.854" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node29}" tilt="0" title="兒童遊戲場C" distance="34.346" target="$fwd" pan="257.305" skinid="ht_node" id="Point03" description=""/>
+      <hotspot url="{node33}" tilt="0" title="兒童遊戲場G" distance="26.8884" target="$fwd" pan="-36.1821" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="127.099" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node43" comment="" info="" customnodeid="" author="" title="兒童遊戲場P" datetime="" latitude="23.96668445" longitude="121.61014572" tags="" copyright="" heading="127.099" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node39}" tilt="0" title="兒童遊戲場L" distance="18.4084" target="$fwd" pan="22.9565" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node28}" tilt="0" title="兒童遊戲場B" distance="28.8806" target="$fwd" pan="78.0792" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node38}" tilt="0" title="兒童遊戲場K" distance="19.0868" target="$fwd" pan="-9.63831" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="3.66897" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node45" comment="" info="" customnodeid="" author="" title="公園空景Ａ" datetime="" latitude="23.96654964" altitude="6.00" longitude="121.61029592" tags="" copyright="" heading="3.66897" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node38}" tilt="-50.48" title="兒童遊戲場K" distance="2.43814" target="$fwd" pan="54.142" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node37}" tilt="-46.6" title="兒童遊戲場J" distance="7.30357" target="$fwd" pan="-171.729" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node39}" tilt="-30.26" title="兒童遊戲場L" distance="10.807" target="$fwd" pan="-11.2718" skinid="ht_node" id="Point03" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="187.351" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node46" comment="" info="" customnodeid="" author="" title="公園空景B" datetime="" latitude="23.96676900" longitude="121.61054134" tags="太平洋公園" copyright="" heading="187.351" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node32}" tilt="-23.23" title="兒童遊戲場F" distance="16.6393" target="$fwd" pan="71.2368" skinid="ht_node" id="Point02" description=""/>
+      <hotspot url="{node28}" tilt="-16.67" title="兒童遊戲場B" distance="20.721" target="$fwd" pan="246.995" skinid="ht_node" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node48">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="146.97" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node48" comment="" info="" customnodeid="" author="" title="公園夜景Ａ" datetime="" latitude="23.96664278" longitude="121.61032408" tags="night|太平洋公園" copyright="" heading="146.97" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node39}" tilt="-89.69" title="兒童遊戲場L" distance="0.304229" target="$fwd" pan="165.66" skinid="ht_node" id="Point01" description=""/>
+      <hotspot url="{node47}" tilt="0" title="公園夜景B" distance="33.0305" target="$fwd" pan="107.829" skinid="ht_node" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input leveltilesize="510" overlap="1" width="2048" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="116.855" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node47" comment="" info="" customnodeid="" author="" title="公園夜景B" datetime="" latitude="23.96687317" longitude="121.61052928" tags="night" copyright="" heading="116.855" description="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" border="1" enabled="1" width="180" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundalpha="1" height="20" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot url="{node48}" tilt="0" title="公園夜景Ａ" distance="33.0305" target="$fwd" pan="257.714" skinid="ht_node" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomspeed="2" zoomafterinfov="140" type="crossdissolve" softedge="0" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" sensitivity="8" invertcontrol="1" hideabout="0" contextvr="1" zoomcentercursor="1" speedwheel="1" contextprojections="0" simulatemass="1" rubberband="0" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" comment="" copyright="" author="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map googlecustomstylecode="" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" index="0" mapmaxzoom="18" type="web" id="Map01" mapprovider="openstreetmap"/>
+</tour>
