@@ -6,6 +6,7 @@
 			"https://www.youtube.com/iframe_api",
 			"https://player.vimeo.com/api/player.js",
 			"3rdparty/lottie/lottie.min.js",
+			"https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyBDMHDcdV5vZ96M9j32EFdH8k2bDa0OC9s",
 			"3rdparty/leaflet/leaflet.js"
 		],
 		"css": [
@@ -19,7 +20,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2026-05-07T03:35:10.203Z",
+	"creationdate": "2026-08-13T15:14:22.404Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
